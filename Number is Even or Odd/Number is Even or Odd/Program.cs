@@ -16,7 +16,7 @@ namespace Number_is_Even_or_Odd
             if (number % 2 == 0)
                 Console.WriteLine("\n"+ number + " adalah bilangan genap");
             else
-                Console.WriteLine("\n"+ number + " adalah bilangan ganjil");
+                Console.WriteLine("\n"+ number + " adalah bilangan ganjil"); 
         }
     }
 }
