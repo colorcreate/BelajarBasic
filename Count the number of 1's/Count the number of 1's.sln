@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the number of 1's", "Count the number of 1's\Count the number of 1's.csproj", "{AA67C730-4AEB-49E7-8BD0-A70CF80D7D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA67C730-4AEB-49E7-8BD0-A70CF80D7D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA67C730-4AEB-49E7-8BD0-A70CF80D7D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA67C730-4AEB-49E7-8BD0-A70CF80D7D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA67C730-4AEB-49E7-8BD0-A70CF80D7D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
