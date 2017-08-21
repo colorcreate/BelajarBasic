@@ -1,4 +1,4 @@
-# Belajar c#
+# c# basic
 learning c# code from this [site](http://www.sanfoundry.com/csharp-programming-examples/)
 
 ### C# Examples on Fundamental Mathematical Operations
