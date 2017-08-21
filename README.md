@@ -1,5 +1,5 @@
 # Belajar c-sharp
-belajar code c# dari [sini](http://www.sanfoundry.com/csharp-programming-examples/)
+learning c# code from this [site](http://www.sanfoundry.com/csharp-programming-examples/)
 
 C# Examples on Fundamental Mathematical Operations
 1. Number is Even or Odd
